@@ -1,3 +1,4 @@
 .alert {
   border-left: 5px solid rgba(152, 149, 149, 0.745);
+  border-bottom: 1px solid grey;
 }
